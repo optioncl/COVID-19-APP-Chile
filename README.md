@@ -18,16 +18,36 @@ See [Screenshot.md](./SCREENSHOT.md).
 - TypeScript >= 3.7.
 
 ## Author
-👤 **Option**
+👤 **Option y Med360**
 
-* Website: https://option.cl
+* Website: https://option.cl - https://www.med360.cl
 * Github: [@optioncl](https://github.com/optioncl)
+
+## Contributors
+👤 **Citysense**
+
+* Website: https://citysense.co/
+
+👤 **Hackit-19**
+
+* Website: https://hackit19.azurewebsites.net/
 
 ## Developers
 - Marcos Corona: <[@ryuphi](https://github.com/ryuphi)>
-- Jose Nuñez: <[@jsdotx3](https://github.com/jsdotx3)>
+- José Núñez: <[@jsdotx3](https://github.com/jsdotx3)>
 - Daniel Caris: <[@danielcaris](https://github.com/DanielCaris)>
-- Cristobal Miranda: <[@tobalow](https://github.com/tobalow)>
+- Cristóbal Miranda: <[@tobalow](https://github.com/tobalow)>
+- Javier González
+- Victor Mansilla
+- Alejandro Vega
+- Luisana Sandoval
+
+## Designers
+- Ariel Oyanedel
+- Camila Díaz
+- Carolina Delgado
+- Jorge Pulgar
+- Grace Lillo
 
 👤 **With Love by [Option Team](https://option.cl).**
 
