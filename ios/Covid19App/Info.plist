@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Corona Test</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Necesitamos tu localización para encontrar hospitales cercanos a ti.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Necesitamos tu localización para encontrar hospitales cercanos a ti.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Necesitamos tu localización para encontrar hospitales cercanos a ti.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Nunito-Black.ttf</string>
+		<string>Nunito-Bold.ttf</string>
+		<string>Nunito-ExtraBold.ttf</string>
+		<string>Nunito-ExtraLight.ttf</string>
+		<string>Nunito-Light.ttf</string>
+		<string>Nunito-Medium.ttf</string>
+		<string>Nunito-Regular.ttf</string>
+		<string>Nunito-SemiBold.ttf</string>
+		<string>AlegreyaSans-Black.otf</string>
+		<string>AlegreyaSans-BlackItalic.otf</string>
+		<string>AlegreyaSans-Bold.otf</string>
+		<string>AlegreyaSans-BoldItalic.otf</string>
+		<string>AlegreyaSans-ExtraBold.otf</string>
+		<string>AlegreyaSans-ExtraBoldItalic.otf</string>
+		<string>AlegreyaSans-Italic.otf</string>
+		<string>AlegreyaSans-Light.otf</string>
+		<string>AlegreyaSans-LightItalic.otf</string>
+		<string>AlegreyaSans-Medium.otf</string>
+		<string>AlegreyaSans-MediumItalic.otf</string>
+		<string>AlegreyaSans-Regular.otf</string>
+		<string>AlegreyaSans-Thin.otf</string>
+		<string>AlegreyaSans-ThinItalic.otf</string>
+		<string>AlegreyaSansSC-Black.otf</string>
+		<string>AlegreyaSansSC-BlackItalic.otf</string>
+		<string>AlegreyaSansSC-Bold.otf</string>
+		<string>AlegreyaSansSC-BoldItalic.otf</string>
+		<string>AlegreyaSansSC-ExtraBold.otf</string>
+		<string>AlegreyaSansSC-ExtraBoldItalic.otf</string>
+		<string>AlegreyaSansSC-Italic.otf</string>
+		<string>AlegreyaSansSC-Light.otf</string>
+		<string>AlegreyaSansSC-LightItalic.otf</string>
+		<string>AlegreyaSansSC-Medium.otf</string>
+		<string>AlegreyaSansSC-MediumItalic.otf</string>
+		<string>AlegreyaSansSC-Regular.otf</string>
+		<string>AlegreyaSansSC-Thin.otf</string>
+		<string>AlegreyaSansSC-ThinItalic.otf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

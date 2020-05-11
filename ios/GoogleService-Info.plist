@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>824979908998-rbjn36f5irsmpck8vego3i8jv6jl50h9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.824979908998-rbjn36f5irsmpck8vego3i8jv6jl50h9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>824979908998-97ock6us0phb0seq6d73hthgtnk71ebf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvlry9-a5XklvrG70ZSMuO-OO640cGxOg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>824979908998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.option.coronatestchile</string>
+	<key>PROJECT_ID</key>
+	<string>covid-19-app-chile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>covid-19-app-chile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:824979908998:ios:5f7e9be6ce6999a142e407</string>
+	<key>DATABASE_URL</key>
+	<string>https://covid-19-app-chile.firebaseio.com</string>
+</dict>
+</plist>

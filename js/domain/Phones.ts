@@ -1,0 +1,4 @@
+const HEALTH_ANSWER_PHONE = '6003607777';
+export default {
+    HEALTH_ANSWER_PHONE,
+};
